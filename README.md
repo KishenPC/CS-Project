@@ -1,3 +1,8 @@
-Computer Science Project Based on Hospital Management System.
+**Hospital Management System** 
+CBSE XII Project Work (Computer Science)
 
-Made By: Abin Krishna, Kishen P C, M P Vaishak Anoop Nambiar
+**Submitted By:**
+• *Abin Krishna* 
+• *Kishen P C* 
+• *M P Vaishak Anoop Nambiar*
+
